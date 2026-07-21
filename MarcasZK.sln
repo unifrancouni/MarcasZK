@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcasZK", "MarcasZK.csproj", "{C6DEBE97-91F0-4F7D-AC08-B3CD153F598C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcasZK.Tests", "MarcasZK.Tests\MarcasZK.Tests.csproj", "{D1A2B3C4-E5F6-7890-ABCD-EF1234567890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DEBE97-91F0-4F7D-AC08-B3CD153F598C}.Debug|x64.ActiveCfg = Debug|x64
+		{C6DEBE97-91F0-4F7D-AC08-B3CD153F598C}.Debug|x64.Build.0 = Debug|x64
+		{C6DEBE97-91F0-4F7D-AC08-B3CD153F598C}.Release|x64.ActiveCfg = Release|x64
+		{C6DEBE97-91F0-4F7D-AC08-B3CD153F598C}.Release|x64.Build.0 = Release|x64
+		{D1A2B3C4-E5F6-7890-ABCD-EF1234567890}.Debug|x64.ActiveCfg = Debug|x64
+		{D1A2B3C4-E5F6-7890-ABCD-EF1234567890}.Debug|x64.Build.0 = Debug|x64
+		{D1A2B3C4-E5F6-7890-ABCD-EF1234567890}.Release|x64.ActiveCfg = Release|x64
+		{D1A2B3C4-E5F6-7890-ABCD-EF1234567890}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A513F16A-581C-4120-9B83-DF64692B8BA8}
+	EndGlobalSection
+EndGlobal
